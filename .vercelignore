@@ -1,0 +1,5 @@
+# Exportações originais do Figma (PNG pesados) — o site usa as versões otimizadas em assets/
+figma-export/
+.DS_Store
+.claude/
+design.md
