@@ -1351,6 +1351,10 @@ button {
   gap: 16px;
 }
 
+.stutz a{
+  text-decoration: none;
+}
+
 /* ==========================================================================
    ESTADO INICIAL DAS ANIMAÇÕES (só quando o GSAP vai rodar)
    Evita o "pisca" do hero antes da animação de entrada.
